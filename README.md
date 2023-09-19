@@ -7,4 +7,5 @@ Arquivos necessarios:
 ```
 npm install git
 npm install typescript
+npm react
 ```
